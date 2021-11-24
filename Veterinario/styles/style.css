@@ -1,0 +1,42 @@
+div
+{
+	margin: 5px;
+	border: dotted 3px green;
+	text-align: center;
+}
+
+div img
+{
+	width: 665px;
+}
+
+.clase_fijo
+{
+	position:  fixed;
+	right: 0px;
+	top: 0px;
+	background-color: lightblue;
+	color: darkred;
+	width: 10%;
+	font-size: 20px;
+}
+
+.texto
+{
+	position: relative;
+	top:  50px;
+	left: 150px;
+	width: 1000px;
+}
+
+.clase_fijo img
+{
+	width: 60%;
+}
+
+.absolute
+{
+	position: absolute;
+	left: 100px;
+	top: 200px;
+}
